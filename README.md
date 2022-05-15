@@ -12,12 +12,12 @@
 
 <body>
 
-    <script src="https://posandu.github.io/brand/tronic247.js" async></script>
+    <script src="https://posandu.me/brand/tronic247.js" async></script>
 </body>
 
 </html>
 ```
 or only the script tag
 ```html
-<script src="https://posandu.github.io/brand/tronic247.js" async></script>
+<script src="https://posandu.me/brand/tronic247.js" async></script>
 ```
